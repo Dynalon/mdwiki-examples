@@ -3,11 +3,14 @@ MDwiki example websites
 
 This is a list of examples websites that are created with [MDwiki]. The full source of all the websites is available at [GitHub][githubrepo].
 
-* [Sample coffee place](cafe/)
-* [Simple travel blog website](ravel_blog/)
-* [Single-page fansite about Muscle Cars](muscle_cars/index.txt)
+* [Sample coffee place](cafe/) [[Markdown source]][cafe]
+* [Simple travel blog website](ravel_blog/) [[Markdown source]][travelblog]
+* [Single-page fansite about Muscle Cars](muscle_cars/index.txt) [[Markdown source]][musclecards]
 
 [MDwiki]: http://www.mdwiki.info
+[cafe]: https://github.com/Dynalon/mdwiki-examples/tree/gh-pages/cafe
+[musclecards]: https://github.com/Dynalon/mdwiki-examples/tree/gh-pages/muscle_cars
+[travelblog]: https://github.com/Dynalon/mdwiki-examples/tree/gh-pages/travel_blog
 
 Wiki
 ----
