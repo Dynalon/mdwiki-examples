@@ -1,0 +1,1 @@
+[gimmick:Disqus](markdowniowiki)
