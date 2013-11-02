@@ -8,6 +8,7 @@ This is a list of examples websites that are created with [MDwiki]. The full sou
 * [Single-page fansite about Muscle Cars](muscle_cars/index.txt) [[Markdown source]][musclecards]
 
 [MDwiki]: http://www.mdwiki.info
+[githubrepo]: http://github.com/Dynalon/mdwiki-examples/
 [cafe]: https://github.com/Dynalon/mdwiki-examples/tree/gh-pages/cafe
 [musclecards]: https://github.com/Dynalon/mdwiki-examples/tree/gh-pages/muscle_cars
 [travelblog]: https://github.com/Dynalon/mdwiki-examples/tree/gh-pages/travel_blog
